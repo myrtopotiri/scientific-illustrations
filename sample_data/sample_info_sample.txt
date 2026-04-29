@@ -1,0 +1,130 @@
+Run	Group	Genotype	tumor in specimen	Age	Gender	Tumor size (cm)	Functional	Donor FUp-time (mon)		Tumor Grade	pStage	T stage	N stage	M stage	Disease Status	Donor Status	
+EGAF00001643139	tumor	ATRX	Pancreas 	61	M	0,25	N	38,9		1	IIB	3	1	0	progression	AWD	
+EGAF00001643141	tumor	ATRX	Pancreas 	67	F	0,4	Y	37,5		2	IB	2		0	stable	NED	
+SRR7634513	tumor	ATRX	Pancreas 	40	M	2,9	N	77	LG	1	IIA	3	0	0	stable	NED	
+SRR7634514	tumor	ATRX	Lymph nodes	50	F	2,7	N	232	IM (upd LG)	1					progression	AWD	
+SRR7634519	tumor	ATRX	Pancreas	71	F	7,8	N	164,3	IM	2					progression	dead-UKN	
+SRR7634520	tumor	ATRX	Pancreas	41	M	8	Y	109,7	LG	1					stable	NED	
+SRR7634526	tumor	ATRX_MEN1	Liver	50	F	3,8	N	0,3	LG	1	IV	1	1	1	progression	DOC	
+SRR7634529	tumor	ATRX_MEN1	pancreas	66	M	7,9	N	130,1	LG	1					progression	AWD	
+EGAF00001643136	tumor	DAXX	Pancreas 	77	M	0,2	N	20,6		2	IIA	3	0	0	stable	NED	
+SRR7634512	tumor	DAXX	Pancreas	34	M	9,8	N	94	IM	2	IIA	3	0	0	progression	AWD	
+SRR7634515	tumor	DAXX	Pancreas 	44	M	4,8	N	31,4	IM (upd HG)	3	IV				progression	DOD	
+SRR7634516	tumor	DAXX	Liver	49	F	2,3	N	118,9	IM	2	IV	2	1	1	progression	DOD	
+SRR7634517	tumor	DAXX	Liver	62	F	6	N	29	IM	2	IV	2	0	1	progression	AWD	
+SRR7634518	tumor	DAXX	Liver	45	M	6,2	N	140,9	LG	1					progression	AWD	
+SRR7634521	tumor	DAXX	liver	57	M	6,2	N	33,3							progression	DOD	
+SRR7634522	tumor	DAXX	Pancreas	60	F	2	N	113,7	LG	1	IA	1	0	0	stable	NED	
+SRR7634523	tumor	DAXX_MEN1	Liver	53	F	9	N	90,1	LG	1	IV		0	1	progression	DOC	
+SRR7634524	tumor	DAXX_MEN1	Pancreas	52	F	6,2	N	135,8	LG (upd IM)	2	IIB	3	1	0	progression	AWD	
+SRR7634525	tumor	DAXX_MEN1	Pancreas	73	M	2,3	N	89,6	LG (upd IM)	2	IV	3	1	1	progression	AWD	
+SRR7634527	tumor	DAXX_MEN1	Liver	30	F		N	160,7	LG	1	III	2	1	0	progression	AWD	
+SRR7634528	tumor	DAXX_MEN1	Pancreas 	44	F	10	Y	68	LG	1	IV	3	0	1	progression	DOD	
+EGAF00001643137	tumor	MEN1	Pancreas 	69	M	0,7	N	73,8		1	IB	2	0	0	stable	NED	
+EGAF00001643138	tumor	MEN1	Pancreas 	75	F	0,15	N	2		1	IA	1	0	0	stable	NED	
+EGAF00001643140	tumor	MEN1	Pancreas 	64	M	0,15	N	15,9		1	IA	1	0	0	stable	NED	
+EGAF00001643143	tumor	MEN1	Pancreas 	59	F	0,43	N	24,8		1	IB	2	0	0	stable	NED	
+EGAF00001643145	tumor	MEN1	Pancreas 	66	M	0,4	N	20,2		2	IIB	3	1	0	stable	NED	
+EGAF00001643150	tumor	MEN1	Pancreas 	64	M	0,35	N	1,3		2	IIA	3	0	0	stable	NED	
+EGAF00001643152	tumor	MEN1	Pancreas 	59	F	1,05	N	49		2	IIA	3	0	0	stable	NED	
+EGAF00001643157	tumor	MEN1	Pancreas 	74	M	0,58	N	3,4		2	IB	2	0	0	progression	DOC	
+SRR7634511	tumor	MEN1	Pancreas	70	M	8	Y	40,3	IM	2	III	3	1	0	progression	DOD	
+EGAF00001643144	tumor	MEN1_ATRX	Pancreas 	59	F	0,49	N	5,4		2	IIB	2	1	0	progression	AWD	
+EGAF00001643132	tumor	MEN1_DAXX	Pancreas 	79	M	0,45	N	33,9		1	IV	3	1	1	progression	AWD	
+EGAF00001643146	tumor	MEN1_DAXX	Pancreas 	76	M	1	N	19,7		1	IIB	3	1	0	progression	DOC	
+EGAF00001643155	tumor	MEN1_DAXX	Pancreas 	68	M	0,32	N	14,1		2	IB	2	0	0	stable	NED	
+EGAF00001643160	tumor	MEN1_DAXX	Pancreas 	71	M	0,55	N	8		2	IIB	3	1	0	stable	NED	
+EGAF00001643133	tumor	WT	Pancreas 	69	F	0,7	N	33,7		2	IB	2	0	0	stable	NED	
+EGAF00001643134	tumor	WT	Pancreas 	38	M	1,3	N	6,9		3	IV	4	1	1	progression	DOD	
+EGAF00001643135	tumor	WT	Pancreas 	59	M	0,75	N	18,7		2	IB	2	0	0	progression	AWD	
+EGAF00001643142	tumor	WT	Pancreas 	56	M	0,17	Y	12,2		1	IA	1	0	0	stable	NED	
+EGAF00001643147	tumor	WT	Pancreas 	48	M	0,76	Y	59,3		2	IB	2	0	0	stable	NED	
+EGAF00001643148	tumor	WT	Pancreas 	81	M	0,15	N	22,7		1	IA	1	0	0	stable	NED	
+EGAF00001643149	tumor	WT	Pancreas 	59	M	0,4	N	0,8		1	IIA	3	0	0	progression	DOC	
+EGAF00001643151	tumor	WT	Pancreas 	65	F	0,27	Y	32,2		1	IB	2	0	0	stable	NED	
+EGAF00001643153	tumor	WT	Pancreas 	56	M	0,45	N	23,8		1	IB	2	0	0	stable	NED	
+EGAF00001643154	tumor	WT	Pancreas 	44	F	0,14	N	27		1	IA	1	0	0	stable	NED	
+EGAF00001643156	tumor	WT	Pancreas 	38	M	0,88	N	9		2	IIB	2	1	0	stable	NED	
+EGAF00001643158	tumor	WT	Pancreas 	78	M	0,4	Y	49,6		1	IIB	2	1	0	stable	NED	
+EGAF00001643159	tumor	WT	Pancreas 	78	M	0,12	N	18,2		3	IIB	3	1	0	stable	NED	
+SRR7634530	tumor	WT	Pancreas	63	M	1,7	N	58,8	LG	1	IA	1	0	0	progression	DOC	
+SRR7634531	tumor	WT	Pancreas 	55	M	1	Y	15,6	LG	1					stable	NED	
+SRR7634532	tumor	WT	Pancreas	54	F	8,4	N	35	LG	1	III	2	1	0	progression	DOD	
+SRR7634533	tumor	WT	Liver	48	F	5	N	67,2	IM	2	IV	2	0	1	progression	DOD	
+SRR7634534	tumor	WT	Pancreas 	42	M	3,1	Y	92,7	LG	1					progression	DOD	
+SRR7634535	tumor	WT	Pancreas	54	F	8,5	N	136	LG	1					stable	NED	
+SRR7634536	tumor	WT	Pancreas 	30	F	3,7	N	36	IM	2	IV			1	progression	DOD	
+SRR7634537	tumor	WT	Pancreas 	60	M	2,7	N	62,9	LG	1	IIA	3	0	0	stable	NED	
+SRR7634538	tumor	WT	Pancreas 	39	F	2,5	Y	69,6	IM	2	IIA	3	0	0	stable	NED	
+SRR7634539	tumor	WT	Pancreas 	67	M	4,2	N	67,4	LG	1	IB	2	0	0	stable	NED	
+SRR7634540	tumor	WT	Pancreas	60	F	2,5	N	128,2	LG (upd IM)	2	III	2	1	0	stable	NED	
+SRR7634541	tumor	WT	Pancreas	56	M	1,5	Y	112,8	LG	1					stable	NED	
+SRR7634542	tumor	WT	Pancreas	44	M	12	N	155	LG	1					stable	NED	DOC now
+SRR7634543	tumor	WT	Pancreas	55	F	10	N	204,7	LG	1						NED	
+SRR1299319	Primary	Acinar	Acinar														
+SRR1299321	Primary	Acinar	Acinar														
+SRR1299333	Primary	Acinar	Acinar														
+SRR1299338	Primary	Acinar	Acinar														
+SRR1299320	Primary	Alpha	Alpha														
+SRR1299322	Primary	Alpha	Alpha														
+SRR1299325	Primary	Alpha	Alpha														
+SRR1299328	Primary	Alpha	Alpha														
+SRR1299331	Primary	Alpha	Alpha														
+SRR1299334	Primary	Alpha	Alpha														
+SRR1299339	Primary	Alpha	Alpha														
+SRR1299341	Primary	Alpha	Alpha														
+SRR1299344	Primary	Alpha	Alpha														
+SRR1299346	Primary	Alpha	Alpha														
+SRR1299323	Primary	Beta	Beta														
+SRR1299324	Primary	Beta	Beta														
+SRR1299326	Primary	Beta	Beta														
+SRR1299329	Primary	Beta	Beta														
+SRR1299332	Primary	Beta	Beta														
+SRR1299335	Primary	Beta	Beta														
+SRR1299340	Primary	Beta	Beta														
+SRR1299342	Primary	Beta	Beta														
+SRR1299343	Primary	Beta	Beta														
+SRR1299345	Primary	Beta	Beta														
+SRR1299327	Primary	Duct	Duct														
+SRR1299330	Primary	Duct	Duct														
+SRR1299336	Primary	Duct	Duct														
+SRR1299337	Primary	Duct	Duct														
+SRR957886	Primary	Islets	islets														
+SRR957889	Primary	Islets	islets														
+SRR957891	Primary	Islets	islets														
+SRR957896	Primary	Islets	islets														
+SRR957898	Primary	Islets	islets														
+SRR957899	Primary	Islets	islets														
+SRR957901	Primary	Islets	islets														
+SRR957902	Primary	Islets	islets														
+SRR957904	Primary	Islets	islets														
+SRR957906	Primary	Islets	islets														
+SRR957907	Primary	Islets	islets														
+SRR957913	Primary	Islets	islets														
+SRR957914	Primary	Islets	islets														
+SRR957916	Primary	Islets	islets														
+SRR957917	Primary	Islets	islets														
+SRR957919	Primary	Islets	islets														
+SRR957920	Primary	Islets	islets														
+SRR957922	Primary	Islets	islets														
+SRR957923	Primary	Islets	islets														
+SRR957927	Primary	Islets	islets														
+SRR957928	Primary	Islets	islets														
+SRR957930	Primary	Islets	islets														
+SRR957933	Primary	Islets	islets														
+SRR957935	Primary	Islets	islets														
+SRR957940	Primary	Islets	islets														
+SRR957941	Primary	Islets	islets														
+SRR957942	Primary	Islets	islets														
+SRR957943	Primary	Islets	islets														
+SRR957946	Primary	Islets	islets														
+SRR957949	Primary	Islets	islets														
+SRR957951	Primary	Islets	islets														
+SRR957952	Primary	Islets	islets														
+SRR957953	Primary	Islets	islets														
+SRR957954	Primary	Islets	islets														
+SRR957957	Primary	Islets	islets														
+SRR957964	Primary	Islets	islets														
+SRR957969	Primary	Islets	islets														
+SRR957971	Primary	Islets	islets														
+SRR957972	Primary	Islets	islets														
